@@ -1,0 +1,10 @@
+GIT commands:
+
+git init
+git add [filename] }} -A
+git status
+git commit -m "msg"
+git remote add origin repoName
+git push origin master
+git clone repoName
+git pull origin master
